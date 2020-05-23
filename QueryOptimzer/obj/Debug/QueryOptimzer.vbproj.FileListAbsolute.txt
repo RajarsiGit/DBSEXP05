@@ -1,0 +1,26 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\bin\Debug\QueryOptimzer.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\bin\Debug\QueryOptimzer.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\bin\Debug\QueryOptimzer.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\bin\Debug\QueryOptimzer.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.vbprojAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.vbproj.GenerateResource.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\QueryOptimzer\obj\Debug\QueryOptimzer.pdb
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\bin\Debug\QueryOptimzer.exe.config
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\bin\Debug\QueryOptimzer.exe
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\bin\Debug\QueryOptimzer.pdb
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\bin\Debug\QueryOptimzer.xml
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.Form1.resources
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.Resources.resources
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.exe
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.xml
+C:\Users\Administrator\source\repos\QueryOptimzer\QueryOptimzer\obj\Debug\QueryOptimzer.pdb
